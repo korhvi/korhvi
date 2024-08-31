@@ -32,7 +32,10 @@
 
 <h3 align="center">📫 How to reach me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ville-korhonen-90566924a">LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/ville-korhonen-90566924a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+ 
 
 </p>
 
