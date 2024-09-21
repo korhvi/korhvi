@@ -42,3 +42,15 @@
 
 <h3 align="center">⚡ Fun fact</h3>
 <p align="center">I love experimenting with new tech stacks and often build side projects just for fun!</p>
+
+
+<h3 align="center"> 📊 GitHub Stats:
+<p align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=korhvi&theme=dark&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=korhvi&theme=dark&hide_border=false<br/>
+)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=korhvi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=korhvi&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
